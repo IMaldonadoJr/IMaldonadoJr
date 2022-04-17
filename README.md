@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IMaldonadoJr
 - 👀 I’m interested in ...collaborating with SDM's
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...software developmant management
+- 🌱 I’m currently looking for software development managers
+- 💞️ I’m looking to collaborate on ...software development management
 - 📫 How to reach me ...ismael.maldonado414@gmail.com
 
 <!---
